@@ -1,0 +1,16 @@
+* {}
+
+.main-header .navbar .navbar-left img {
+    width: 10%;
+}
+
+.main-header .navbar .navbar-right li {
+    list-style: none;
+}
+
+.main-header {
+    background-color: rgba(237,
+            7,
+            7, 0.6);
+    opacity: 1;
+}
